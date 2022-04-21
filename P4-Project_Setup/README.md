@@ -7,4 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+https://night-makemake-346.notion.site/Micro-Greens-Project-8207dec42eb54785aa846d1586ab0a7f
+see github links, readme files in each
