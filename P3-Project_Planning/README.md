@@ -8,12 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+See attached doc in folder 
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+https://night-makemake-346.notion.site/Micro-Greens-Project-8207dec42eb54785aa846d1586ab0a7f
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://night-makemake-346.notion.site/Micro-Greens-Project-8207dec42eb54785aa846d1586ab0a7f
